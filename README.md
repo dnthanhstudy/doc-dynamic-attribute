@@ -70,8 +70,6 @@
 
 ![Mô tả ảnh](assets/images/anh1.png)
 
-[Field ordering có ý nghĩa gì?](https://zendvn.com/upload-hinh-anh-san-pham-voi-nhieu-tuy-chon)
-
 #### Tiếp theo là thuộc tính và giá trị của thuộc tính. Một sản phẩm có 1 hoặc nhiều thuộc tính. Trong từng thuộc tính sẽ có 1 hoặc nhiều giá trị của thuộc tính đó. Vì vậy chúng ta phát sinh thêm 2 bảng: attribute và attribute_value. Ví dụ là quần A chứa 2 thuộc tính là Màu Sắc và Chất Liệu. Trong thuộc tính Màu Sắc sẽ chứa nhiều màu (giá trị thuộc tính) như là Tràm, Tím,.. Chất liệu cũng tương tự ha!
 
 #### Table attribute
